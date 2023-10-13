@@ -1,0 +1,30 @@
+#h1p {
+    width: 25%;
+    height: 25%;
+    resize: horizontal;
+}
+
+body {
+    background-color: #FF6AC2;
+}
+
+body {
+    height: 100%;
+    margin: 4px;
+}
+
+.header {
+    color: white;
+	font-family: 'Quicksand', sans-serif;
+    font-size: 45px;
+    letter-spacing: 10px;
+    margin-top: 80px;
+}
+
+#back {
+	font-size: 20px;
+	float: left;
+	position: fixed;
+	top: 2%;
+	left: 2%;
+}
